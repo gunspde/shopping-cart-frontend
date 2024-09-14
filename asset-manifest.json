@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-application/static/css/main.c5059eb4.css",
+    "main.js": "/shopping-cart-application/static/js/main.3f216275.js",
+    "static/js/453.7263609b.chunk.js": "/shopping-cart-application/static/js/453.7263609b.chunk.js",
+    "static/media/product4-1.png": "/shopping-cart-application/static/media/product4-1.b1a000d01129ad84955f.png",
+    "static/media/product4.png": "/shopping-cart-application/static/media/product4.b1a000d01129ad84955f.png",
+    "static/media/product1-2.png": "/shopping-cart-application/static/media/product1-2.8702d2cca06acadf672b.png",
+    "static/media/product1-3.png": "/shopping-cart-application/static/media/product1-3.83d27e3c87d0c1bae368.png",
+    "static/media/baam-directions.png": "/shopping-cart-application/static/media/baam-directions.6ac399f21583110104fe.png",
+    "static/media/product1-1.png": "/shopping-cart-application/static/media/product1-1.b7ffbb7d6aa47d71c455.png",
+    "static/media/product1.png": "/shopping-cart-application/static/media/product1.b7ffbb7d6aa47d71c455.png",
+    "static/media/product4-3.webp": "/shopping-cart-application/static/media/product4-3.c83ebcdca4c6d3e6c17a.webp",
+    "static/media/product4-2.webp": "/shopping-cart-application/static/media/product4-2.e65981f69cb230a37a20.webp",
+    "static/media/product2-1.webp": "/shopping-cart-application/static/media/product2-1.9766257d106f06d35e7c.webp",
+    "static/media/product2.webp": "/shopping-cart-application/static/media/product2.9766257d106f06d35e7c.webp",
+    "static/media/banner-header.png": "/shopping-cart-application/static/media/banner-header.ddc5a0fbb0b1dc0e5840.png",
+    "static/media/product3-1.webp": "/shopping-cart-application/static/media/product3-1.e14267ee8e67f215e101.webp",
+    "static/media/product3.webp": "/shopping-cart-application/static/media/product3.e14267ee8e67f215e101.webp",
+    "index.html": "/shopping-cart-application/index.html",
+    "main.c5059eb4.css.map": "/shopping-cart-application/static/css/main.c5059eb4.css.map",
+    "main.3f216275.js.map": "/shopping-cart-application/static/js/main.3f216275.js.map",
+    "453.7263609b.chunk.js.map": "/shopping-cart-application/static/js/453.7263609b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5059eb4.css",
+    "static/js/main.3f216275.js"
+  ]
+}
