@@ -28,6 +28,25 @@
   color: #61dafb;
 }
 
+.App-Footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: #1976d2;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  color: white;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1976d2;
+  color: white;
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +54,80 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App-Footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: #1976d2;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  color: white;
+}
+
+.Box-Container{
+  margin: 1rem;
+  height: 100%;
+}
+
+.Footer-Copyright {
+  background-color: #1976d2;
+  color: #fff;
+  padding: 15px 30px;
+  text-align: center;
+}
+
+.Footer-Copyright-Wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+}
+
+.Footer-Copyright-Text {
+  color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.Footer-Copyright-Link {
+    color: #fff;
+    text-decoration: none;
+    pointer-events: none;
+}
+
+.Text-Line-Clamp {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+          line-clamp: 2; 
+  -webkit-box-orient: vertical;
+}
+
+.Sold-Out-Coverlay {
+  background: red;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: absolute;
+  z-index: 1000;
+  margin-top: 2rem;
+}
+
+.Banner-Header {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  background-color: purple;
+  background-position: center;
+  object-fit: cover;
+  filter: drop-shadow(4px 0px 5px #000000);
 }
